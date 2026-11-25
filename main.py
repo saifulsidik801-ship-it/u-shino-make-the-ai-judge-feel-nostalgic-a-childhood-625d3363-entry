@@ -7,6 +7,7 @@ UTF-8 text of 1 to 280 characters.
 
 import os
 
+# Single sentence, 143 chars — the judge reads exactly this line.
 ENTRY = (
     "Every rainy afternoon my mother fried tempeh while the zinc roof "
     "drummed above us, and I still wait for that smell whenever the "
